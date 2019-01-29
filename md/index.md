@@ -6,7 +6,7 @@
 <div style="text-align: left;">▲男の子が鉢巻を巻いて、夜にテスト勉強をしているイラストです。</div>
 <br><br>
 |01/30 一応完成<br>
-|テスト範囲はWEEK5/DAY3~
+|テスト範囲はWEEK5/DAY3~(らしい)
 
 ----
 ##コンテンツ一覧
@@ -25,4 +25,4 @@
 ![smaph](https://2.bp.blogspot.com/-VeSwFz0leSw/W9RcwV5coBI/AAAAAAABPtQ/_TFcOmKJbAkAvfs5qPmmZ5f3X5ac30GvgCLcBGAs/s800/study_smartphone_asobu_man.png =200x200)
 <div style="text-align: left;">▲勉強をしている最中にスマートフォンで遊んでしまう人のイラストです。</div>
 
-[![twit](https://image.flaticon.com/icons/png/512/23/23681.png =200x200)](https://twitter.com/?status=斎藤一のくそムズ英単語帳https://www.u.tsukuba.ac.jp/~s1811528/english/)
+[![共有](https://image.flaticon.com/icons/png/512/23/23681.png =200x200)](https://twitter.com/?status=斎藤一のくそムズ英単語帳https://www.u.tsukuba.ac.jp/~s1811528/english/)
