@@ -115,31 +115,28 @@ The elusive fugitive was <u>**coerced**</u> by his attorney into surrendering.
 ###DAY 3 - THE POLICE FIND THE DOG
 ####
 
-■
+■40時間が警察が働くまでに費やされ、世間の注目が
 Forty hours had <u>**elapsed**</u> before the police work and the publicity paid off.
 
-■
-By <u>**meticulously**</u> checking the registrations of every red station wagon
+■近所の赤のステーションワゴン全部の登録を慎重に確認することにつけ、
+By <u>**meticulously**</u> checking the registrations of every red station wagon in the neighborhood 
 
-■
-in the neighborhood and then cross-checking dog licenses,
+■また、犬の登録をクロスチェックすることにつけ、警察は4人の飼い主にまで捜索を絞り込んだ。
+and then cross-checking dog licenses, the police narrowed the search to four owners.
 
-■
-the police narrowed the search to four owners.
-
-■
+■幾何かの着信の後に、申し訳なさそうな飼い主が特定され、ハート家宅に口輪をしたジャーマン・シェパードを連れて行ったことが突き止められた。
 After a few telephone calls, the apologetic owner was located and directed to bring her muzzled German shepherd to the Hart <u>**domicile**</u>.
 
-■
+■ボビーは犬を特定し、その畜生は必要とされる検査を受診する為に獣医の診療所へ持ち込まれた。
 Bobby identified the dog, and the animal was taken to a veterinary’s clinic to have the necessary tests performed.
 
-■
+■だらしのない飼い主、マッグロ夫人は、「ワンちゃんは時々粗暴になるのよ」と認めた。
 The <u>**lax**</u> owner, Mrs. McGraw, admitted that the dog had a <u>**sporadic**</u> mean streak,
 
-■
+■しかし彼女は狂犬病だという考えを一蹴した。
 but she scoffed* at the idea of rabies.
 
-■
+■ジェリー・ハートは2日ぶりに不安が除かれたこと感得したのだった。
 Jerry Hart noticed for the first time in two days that his uneasy feeling had departed.
 
 ####
@@ -151,23 +148,23 @@ Inadvertenty, Emma had allowed two months to <u>**elapse**</u> before paying her
 
 ####|meticulous - ごく慎重な, 繊細な (careful)
 
-■
+■その繊細な音楽家は(演奏の)でたらめな友人に対する軽蔑以外何も抱かなかった。
 The <u>**meticulous**</u> musician had nothing but disdain for his disorganized friends.
 
 ####|domicile - 家 (home)
 
-■
-A man's <u>**domicile**</u> is his house.
+■男の住まいとは、彼にとっての「城」である。
+A man's <u>**domicile**</u> is his catsle.
 
 ####|lax - 手ぬるい, 緩んでいる (careless, negligent)
 
-■
+■見張りがだらしない為に、盗みが倉庫で蔓延るのだ。
 Because the watchman was <u>**lax**</u>, thievery was rampant at the warehouse.
 
 ####|sporadic - 時々起こる (occasional)
 
-■
-The luckluster battle was punctuated by <u>**sporadic**</u> morter fire.
+■その緩慢とした戦闘は、突然の迫撃砲によって中断したのであった。
+The lackluster battle was punctuated by <u>**sporadic**</u> morter fire.
 
 </details>
 <details><summary>【DAY 4 - ALL’S WELL THAT ENDS WELL】</summary>
@@ -176,47 +173,52 @@ The luckluster battle was punctuated by <u>**sporadic**</u> morter fire.
 ###DAY 4 - ALL’S WELL THAT ENDS WELL
 ####
 
-■
+■ハート家は、その犬についての無分別な憶測が真実ではなかったと判明したことに安堵した。
 The Harts were greatly relieved to learn that the <u>**rash**</u> <u>**conjecture**</u> about the dog was not true.
 
-■
+■なぜならジャーマン・シェパードはノロく、苦痛を伴う治療の必要は除かれたからである。
 Because the German shepherd was not rabid, the necessity for the painful treatment was <u>**obviated**</u>.
 
-■
+■警察は、その犬の飼い主に、犬の口輪を外させるよう求めた。
 The police gave the dog’s owner a summons for allowing the animal to go un-muzzled.
 
-■
+■幼いボビーは、「アイスクリームサンデー」と「ウォルト・ディズニーの長編二本立て映画」を奢られた。
 Little Bobby was treated to an ice cream sundae and a Walt Disney double feature.
 
-■
+■隣人たちは他の燦然とした出来事を探しに、ジェリー・ハートは仕事場に戻った。
 The neighbors searched for other <u>**lurid**</u> happenings, and Jerry Hart went back to his office.
 
-■
+■「あの犬はどんな犬だったんです？」と秘書が尋ねた。
 “What kind of dog was that?” his secretary asked.
 
-■
+■「ああ、ヤツの鳴き声の方がカミツキより一層悪かったよ。」
 “Oh, his bark was worse than his bite,” <u>**quipped**</u> Jerry.
 
 ####
 ----
 ####|rash - 気の早い, 無分別な (too hasty, reckless)
-■
-It was exceedingly <u>**rashed**</u> of the lightweit to insult the belligerent longshoreman.
+
+■喧嘩っ早い湾岸労働者の無礼は、とてもつまらない奴の向こう見ずであった。
+It was exceedingly <u>**rashed**</u> of the lightweight to insult the belligerent longshoreman.
 
 ####|conjecture - 推測, 推論 (guess)
-■
-It was sheer <u>**conjecture**</u> on the ditective's part but it led to the arrest of the vexatious counterfeit
+
+■それは探偵役の全くの推測であったが、忌々しい偽札製造者の逮捕に繋がったのであった。
+It was sheer <u>**conjecture**</u> on the detective's part but it led to the arrest of the vexatious counterfeiters.
 
 ####|obviate - 除去する, 予防する (do way with, eliminate)
-■
+
+■遠足が延期になった時、サンドイッチを準備する必要は取り去られたのであった。
 The necessity for preparing sandwiches was <u>**obviated**</u> when the picnic was postponed.
 
 ####|lurid - 燦々とした, けばけばしい (sensational)
-■
+
+■新聞は、ありふれた報道から、どぎつい報道へと転換したのだった。
 The newspaper swiched from mundane coverage to <u>**lurid**</u> reporting.
 
 ####|quip - 皮肉る, 辛辣に言う (joke)
-■
+
+■ハムレットは、「ヨリックはいつもエロい冗談がうまいなあ」と憶っていた。
 Hamlet remembered that Yorick was always ready with a lusty <u>**quip**</u>
 
 </details>
