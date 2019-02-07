@@ -205,19 +205,19 @@ It was exceedingly <u>**rashed**</u> of the lightweit to insult the belligerent 
 
 ####|conjecture - 推測, 推論 (guess)
 ■
-It was sheer <u>****</u>
+It was sheer <u>**conjecture**</u> on the ditective's part but it led to the arrest of the vexatious counterfeit
 
 ####|obviate - 除去する, 予防する (do way with, eliminate)
 ■
-
+The necessity for preparing sandwiches was <u>**obviated**</u> when the picnic was postponed.
 
 ####|lurid - 燦々とした, けばけばしい (sensational)
 ■
-
+The newspaper swiched from mundane coverage to <u>**lurid**</u> reporting.
 
 ####|quip - 皮肉る, 辛辣に言う (joke)
 ■
-
+Hamlet remembered that Yorick was always ready with a lusty <u>**quip**</u>
 
 </details>
 <details><summary>【WEEK 11 まとめ】</summary>
