@@ -5,8 +5,7 @@
 ####
 
 ■我々の隣人は裕福な発明家であり、その最新の突然の<u>**賢い**</u>考えは、傘の代替品と<u>**なりうる**</u>もので、多くの雑誌で特集された。
-Our neighbor is an
- inventor whose latest brainstorm, a <u>**feasible**</u> umbrella substitute, has been featured in many magazines.
+Our neighbor is an <u>**affluent**</u> inventor whose latest brainstorm, a <u>**feasible**</u> umbrella substitute, has been featured in many magazines.
 
 ■傍目には単純に<u>**見え**</u>るそれは、固いプラスティック片で、概ね物差し大であり、女性のハンドバッグや男性の背広のポケットに快適に収まる。
 As simply as the eye can <u>**discern**</u>, it is a hard plastic strip, about the size of a ruler, which fits comfortably into a woman’s handbag or a man’s suit jacket.
