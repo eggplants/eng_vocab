@@ -115,40 +115,59 @@ The elusive fugitive was <u>**coerced**</u> by his attorney into surrendering.
 ###DAY 3 - THE POLICE FIND THE DOG
 ####
 
-
+■
 Forty hours had <u>**elapsed**</u> before the police work and the publicity paid off.
 
+■
 By <u>**meticulously**</u> checking the registrations of every red station wagon
 
+■
 in the neighborhood and then cross-checking dog licenses,
 
+■
 the police narrowed the search to four owners.
 
+■
 After a few telephone calls, the apologetic owner was located and directed to bring her muzzled German shepherd to the Hart <u>**domicile**</u>.
 
+■
 Bobby identified the dog, and the animal was taken to a veterinary’s clinic to have the necessary tests performed.
 
+■
 The <u>**lax**</u> owner, Mrs. McGraw, admitted that the dog had a <u>**sporadic**</u> mean streak,
 
+■
 but she scoffed* at the idea of rabies.
 
+■
 Jerry Hart noticed for the first time in two days that his uneasy feeling had departed.
 
 ####
 ----
 ####|elapse - いつの間にか経過する, 経つ (to slip by)
 
+■
+Inadvertenty, Emma had allowed two months to <u>**elapse**</u> before paying her rent.
 
 ####|meticulous - ごく慎重な, 繊細な (careful)
 
+■
+The <u>**meticulous**</u> musician had nothing but disdain for his disorganized friends.
 
 ####|domicile - 家 (home)
 
+■
+A man's <u>**domicile**</u> is his house.
 
 ####|lax - 手ぬるい, 緩んでいる (careless, negligent)
 
+■
+Because the watchman was <u>**lax**</u>, thievery was rampant at the warehouse.
 
 ####|sporadic - 時々起こる (occasional)
+
+■
+The luckluster battle was punctuated by <u>**sporadic**</u> morter fire.
 
 </details>
 <details><summary>【DAY 4 - ALL’S WELL THAT ENDS WELL】</summary>
@@ -157,35 +176,47 @@ Jerry Hart noticed for the first time in two days that his uneasy feeling had de
 ###DAY 4 - ALL’S WELL THAT ENDS WELL
 ####
 
+■
 The Harts were greatly relieved to learn that the <u>**rash**</u> <u>**conjecture**</u> about the dog was not true.
 
+■
 Because the German shepherd was not rabid, the necessity for the painful treatment was <u>**obviated**</u>.
 
+■
 The police gave the dog’s owner a summons for allowing the animal to go un-muzzled.
 
+■
 Little Bobby was treated to an ice cream sundae and a Walt Disney double feature.
 
+■
 The neighbors searched for other <u>**lurid**</u> happenings, and Jerry Hart went back to his office.
 
+■
 “What kind of dog was that?” his secretary asked.
 
+■
 “Oh, his bark was worse than his bite,” <u>**quipped**</u> Jerry.
 
 ####
 ----
 ####|rash - 気の早い, 無分別な (too hasty, reckless)
-
+■
+It was exceedingly <u>**rashed**</u> of the lightweit to insult the belligerent longshoreman.
 
 ####|conjecture - 推測, 推論 (guess)
-
+■
+It was sheer <u>****</u>
 
 ####|obviate - 除去する, 予防する (do way with, eliminate)
+■
 
 
 ####|lurid - 燦々とした, けばけばしい (sensational)
+■
 
 
 ####|quip - 皮肉る, 辛辣に言う (joke)
+■
 
 
 </details>
