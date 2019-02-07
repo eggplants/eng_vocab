@@ -219,7 +219,7 @@ The newspaper swiched from mundane coverage to <u>**lurid**</u> reporting.
 ####|quip - 皮肉る, 辛辣に言う (joke)
 
 ■ハムレットは、「ヨリックはいつもエロい<u>**冗談**</u>がうまいなあ」と憶っていた。
-Hamlet remembered that Yorick was always ready with a lusty <u>**quip**</u>
+Hamlet remembered that Yorick was always ready with a lusty <u>**quip.**</u>
 
 </details>
 <details><summary>【WEEK 11 まとめ】</summary>
