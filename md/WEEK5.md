@@ -105,10 +105,6 @@ Television sleuths are <u>**inexorable**</u> in their pursuit of lawbreakers.
 ----
 ###DAY3 - STAR PLAYER IS CAUGHT
 ####
-8
-Stars 6
-Followers 2
-Following 4
 
 ■カンニングにまつわる醜聞が一気に熱を帯びたのは、我がフットボール部のキャプテンであるアート・クラウゼが中間試験でのカンニングを見つかるという<u>**酷い**</u>ミスを犯したときだった。
 The cheating scandal came to a head when Art Krause, our football captain, made the <u>**egregious**</u> mistake of getting caught cheating on a midterm exam.
