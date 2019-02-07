@@ -177,7 +177,7 @@ but unless strict measures were taken, the student body would <u>**construe**</u
 ■月曜朝の眠たい授業から、返答を<u>**引き出す**</u>のは容易ではないことだ。
 It isn't easy to <u>**elicit**</u> answers from a sleepy class on Monday morning.
 
-####|pernicious - 有害な, 害のある (hermful, causing injury)
+####|pernicious - 有害な, 害のある (harmful, causing injury)
 
 ■その独裁者の<u>**有害な**</u>諸規範では水面下の指導者を威圧するに足らなかった。
 The dictator's <u>**pernicious**</u> rules failed to intimidate the leaders of the undergrounds.
