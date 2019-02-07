@@ -95,7 +95,7 @@ The children in Shakespeare's plays are so <u>**precocious**</u> that they all s
 
 ####|perfunctory - おざなりの, いいかげんな (done without care, superficial)
 
-■エディスは大晦日パーティーをするほど新世紀に対して<u>**おざなりな**</u>注意しか向けていなかったのだった。
+■エディスは大晦日パーティーをすっぽかすほど新世紀に対して<u>**おざなりな**</u>注意しか向けていなかったのだった。
 Edith gave only <u>**perfunctory**</u> attention to the new millennium, skipping our New Year's Eve party.
 
 ####|chagrin - 無念, 悔しさ (feeling of disappointment, humiliation)
