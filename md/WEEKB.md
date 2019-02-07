@@ -115,25 +115,25 @@ The elusive fugitive was <u>**coerced**</u> by his attorney into surrendering.
 ###DAY 3 - THE POLICE FIND THE DOG
 ####
 
-■40時間が警察が働くまでに費やされ、世間の注目が
+■警察が動くまでに40時間が<u>**経過した**</u>。世間の注目が効果をもたらしたのだ。
 Forty hours had <u>**elapsed**</u> before the police work and the publicity paid off.
 
-■近所の赤のステーションワゴン全部の登録を慎重に確認することにつけ、
-By <u>**meticulously**</u> checking the registrations of every red station wagon in the neighborhood 
+■近所にある赤のステーションワゴン全部の登録を<u>**慎重に**</u>確認することで、
+By <u>**meticulously**</u> checking the registrations of every red station wagon in the neighborhood
 
-■また、犬の登録をクロスチェックすることにつけ、警察は4人の飼い主にまで捜索を絞り込んだ。
+■また、犬の登録をクロスチェックすることで、警察は4人の飼い主にまで捜索を絞り込んだ。
 and then cross-checking dog licenses, the police narrowed the search to four owners.
 
-■幾何かの着信の後に、申し訳なさそうな飼い主が特定され、ハート家宅に口輪をしたジャーマン・シェパードを連れて行ったことが突き止められた。
+■幾何かの着信の後に、申し訳なさそうな飼い主が特定され、ハート家<u>**宅**</u>に口輪をしたジャーマン・シェパードを連れて行ったことが突き止められた。
 After a few telephone calls, the apologetic owner was located and directed to bring her muzzled German shepherd to the Hart <u>**domicile**</u>.
 
 ■ボビーは犬を特定し、その畜生は必要とされる検査を受診する為に獣医の診療所へ持ち込まれた。
 Bobby identified the dog, and the animal was taken to a veterinary’s clinic to have the necessary tests performed.
 
-■だらしのない飼い主、マッグロ夫人は、「ワンちゃんは時々粗暴になるのよ」と認めた。
+■<u>**だらしのない**</u>飼い主、マックグロー夫人は、「ワンちゃんは<u>**時々**</u>粗暴になるのよ」と認めた。
 The <u>**lax**</u> owner, Mrs. McGraw, admitted that the dog had a <u>**sporadic**</u> mean streak,
 
-■しかし彼女は狂犬病だという考えを一蹴した。
+■しかし彼女は(犬が)狂犬病だという考えを一蹴した。
 but she scoffed* at the idea of rabies.
 
 ■ジェリー・ハートは2日ぶりに不安が除かれたこと感得したのだった。
@@ -143,27 +143,27 @@ Jerry Hart noticed for the first time in two days that his uneasy feeling had de
 ----
 ####|elapse - いつの間にか経過する, 経つ (to slip by)
 
-■
-Inadvertenty, Emma had allowed two months to <u>**elapse**</u> before paying her rent.
+■うっかりしてエマは家賃を返すまで2ヶ月<u>**かかって**</u>しまった。
+Inadvertently, Emma had allowed two months to <u>**elapse**</u> before paying her rent.
 
 ####|meticulous - ごく慎重な, 繊細な (careful)
 
-■その繊細な音楽家は(演奏の)でたらめな友人に対する軽蔑以外何も抱かなかった。
+■その<u>**繊細な**</u>音楽家は(演奏の)でたらめな友人に対する軽蔑以外何も抱かなかった。
 The <u>**meticulous**</u> musician had nothing but disdain for his disorganized friends.
 
 ####|domicile - 家 (home)
 
-■男の住まいとは、彼にとっての「城」である。
+■男の<u>**住まい**</u>とは、彼にとっての「城」である。
 A man's <u>**domicile**</u> is his catsle.
 
 ####|lax - 手ぬるい, 緩んでいる (careless, negligent)
 
-■見張りがだらしない為に、盗みが倉庫で蔓延るのだ。
+■見張りが<u>**だらしない**</u>為に、盗みが倉庫で蔓延るのだ。
 Because the watchman was <u>**lax**</u>, thievery was rampant at the warehouse.
 
 ####|sporadic - 時々起こる (occasional)
 
-■その緩慢とした戦闘は、突然の迫撃砲によって中断したのであった。
+■その緩慢とした戦闘は、<u>**突然の**</u>迫撃砲によって中断したのであった。
 The lackluster battle was punctuated by <u>**sporadic**</u> morter fire.
 
 </details>
@@ -173,10 +173,10 @@ The lackluster battle was punctuated by <u>**sporadic**</u> morter fire.
 ###DAY 4 - ALL’S WELL THAT ENDS WELL
 ####
 
-■ハート家は、その犬についての無分別な憶測が真実ではなかったと判明したことに安堵した。
+■ハート家は、その犬についての<u>**無分別な憶測**</u>が真実ではなかったと判明したことに安堵した。
 The Harts were greatly relieved to learn that the <u>**rash**</u> <u>**conjecture**</u> about the dog was not true.
 
-■なぜならジャーマン・シェパードはノロく、苦痛を伴う治療の必要は除かれたからである。
+■なぜならジャーマン・シェパードはノロく、苦痛を伴う治療の必要は<u>**除かれた**</u>からである。
 Because the German shepherd was not rabid, the necessity for the painful treatment was <u>**obviated**</u>.
 
 ■警察は、その犬の飼い主に、犬の口輪を外させるよう求めた。
@@ -185,40 +185,40 @@ The police gave the dog’s owner a summons for allowing the animal to go un-muz
 ■幼いボビーは、「アイスクリームサンデー」と「ウォルト・ディズニーの長編二本立て映画」を奢られた。
 Little Bobby was treated to an ice cream sundae and a Walt Disney double feature.
 
-■隣人たちは他の燦然とした出来事を探しに、ジェリー・ハートは仕事場に戻った。
+■隣人たちは他の<u>**どぎつい**</u>出来事を探しに、ジェリー・ハートは仕事場に戻った。
 The neighbors searched for other <u>**lurid**</u> happenings, and Jerry Hart went back to his office.
 
 ■「あの犬はどんな犬だったんです？」と秘書が尋ねた。
 “What kind of dog was that?” his secretary asked.
 
-■「ああ、ヤツの鳴き声の方がカミツキより一層悪かったよ。」
+■「ああ、ヤツの鳴き声の方がカミツキより一層悪かったよ。」とジェリーは<u>**冗談を言った**</u>。
 “Oh, his bark was worse than his bite,” <u>**quipped**</u> Jerry.
 
 ####
 ----
 ####|rash - 気の早い, 無分別な (too hasty, reckless)
 
-■喧嘩っ早い湾岸労働者の無礼は、とてもつまらない奴の向こう見ずであった。
-It was exceedingly <u>**rashed**</u> of the lightweight to insult the belligerent longshoreman.
+■喧嘩っ早い湾岸労働者の無礼は、とてもつまらない奴の<u>**早とちり**</u>であった。
+It was exceedingly <u>**rash**</u> of the lightweight to insult the belligerent longshoreman.
 
 ####|conjecture - 推測, 推論 (guess)
 
-■それは探偵役の全くの推測であったが、忌々しい偽札製造者の逮捕に繋がったのであった。
+■それは探偵役の全くの<u>**推測**</u>であったが、忌々しい偽札製造者の逮捕に繋がったのであった。
 It was sheer <u>**conjecture**</u> on the detective's part but it led to the arrest of the vexatious counterfeiters.
 
 ####|obviate - 除去する, 予防する (do way with, eliminate)
 
-■遠足が延期になった時、サンドイッチを準備する必要は取り去られたのであった。
+■遠足が延期になった時、サンドイッチを準備する必要は<u>**取り去られた**</u>のであった。
 The necessity for preparing sandwiches was <u>**obviated**</u> when the picnic was postponed.
 
 ####|lurid - 燦々とした, けばけばしい (sensational)
 
-■新聞は、ありふれた報道から、どぎつい報道へと転換したのだった。
+■新聞は、ありふれた報道から、<u>**どぎつい**</u>報道へと転換したのだった。
 The newspaper swiched from mundane coverage to <u>**lurid**</u> reporting.
 
 ####|quip - 皮肉る, 辛辣に言う (joke)
 
-■ハムレットは、「ヨリックはいつもエロい冗談がうまいなあ」と憶っていた。
+■ハムレットは、「ヨリックはいつもエロい<u>**冗談**</u>がうまいなあ」と憶っていた。
 Hamlet remembered that Yorick was always ready with a lusty <u>**quip**</u>
 
 </details>

@@ -11,7 +11,7 @@ An uneasy feeling had made Jerry Hart miserable all day long.
 ■説明は難しいが、過去の同様な衝撃は正確だった。　－厄介事が近づいているのだ。
 It was difficult to explain, but the similar sensations in the past had been accurate — trouble was on the way.
 
-■<u>**天候の**</u>悪化を骨の痛みで予言できる人々がいるように、ジェリーは災難の始まりを知覚できた。
+■天候の<u>**悪化**</u>を骨の痛みで予言できる人々がいるように、ジェリーは災難の始まりを知覚できた。
 Just as some people can predict the onset of <u>**inclement**</u> weather because of an aching in their bones, so could Jerry detect incipient* disaster.
 
 ■彼は机に就いて、会社の報告を<u>**熟読し**</u>ようとしたが、努力は無益だった。
