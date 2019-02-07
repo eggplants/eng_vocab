@@ -5,8 +5,8 @@
 ![study](https://2.bp.blogspot.com/-wSQ2eVTRAeM/VkLHVmYCEQI/AAAAAAAA0VQ/vgfU8DURzb0/s800/studynight_boy.png =200x200)
 <div style="text-align: left;">▲男の子が鉢巻を巻いて、夜にテスト勉強をしているイラストです。</div>
 <br><br>
-|01/30 一応完成<br>
-|テスト範囲はWEEK5/DAY3~(らしい)
+|02/07 WEEK11追加<br>
+|新出単語複数使われてる文にマーカーつける
 
 ----
 ##コンテンツ一覧
