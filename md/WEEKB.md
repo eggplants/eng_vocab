@@ -9,8 +9,7 @@
 Meanwhile, the Harts had notified the local radio stations to broadcast a <u>**poignant**</u> appeal for the dog’s owner to come forward.
 
 ■同局の電話には連絡が<u>**押し寄せた**</u>が、すべての手がかりは<u>**役に立たなかった**</u>。
-The station was <u>**inundated**</u> with phone calls but all leads
-were <u>**fruitless**</u>.
+The station was <u>**inundated**</u> with phone calls but all leads were <u>**fruitless**</u>.
 
 ■ボビーの話によると、巨大な犬がスーパーマーケットの駐車場にあった赤いステーションワゴンから飛び出してきたのだった。
 From what Bobby had told them, a huge dog had leaped out from a red station wagon in the supermarket’s parking lot.
@@ -18,10 +17,10 @@ From what Bobby had told them, a huge dog had leaped out from a red station wago
 ■ボビーを噛んだ後、同犬は消えた。
 After biting Bobby it vanished.
 
-■その6歳児(ボビー)は蒙った噛みつきに気を取られて、どこに該犬が消えたか見ていなかった。
+■その6歳児(ボビー)は蒙った噛みつきに気を取られて、どこにその犬が消えたか見ていなかった。
 The six-year-old was too concerned with the bites he had received to see where the dog disappeared to.
 
-■少年の語りは<u>**混乱していた**</u>が、該動物が灰色で首輪を付けていたことを確かに覚えていた。
+■少年の語りは<u>**混乱していた**</u>が、その動物が灰色で、首輪を付けていたことを確かに覚えていた。
 The boy’s story was <u>**garbled**</u>, but he did remember that the animal was gray and had a collar.
 
 ■確かな手がかりは殆どなかったが、警察官は<u>**楽観的で**</u>あり続けた。
