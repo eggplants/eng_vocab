@@ -6,7 +6,8 @@
 <div style="text-align: left;">▲男の子が鉢巻を巻いて、夜にテスト勉強をしているイラストです。</div>
 <br><br>
 |02/07 WEEK11追加<br>
-|新出単語複数使われてる文にマーカーつける
+
+|02/10 [単語一覧表](https://drive.google.com/file/d/1sHN10IlNWKEfCXp46xPurMaCG4RxNcV3/view?usp=sharing)再掲<br>|勝ち取りたい(D以外)
 
 ----
 ##コンテンツ一覧
