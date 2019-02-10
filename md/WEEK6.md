@@ -129,7 +129,7 @@ In addition to providing us with the vitamins and minerals we need daily, this p
 ■出資者によると、錠剤は栄養を与え、満足させてくれるという。
 According to its sponsors, the pill will nourish and satisfy.
 
-■そんな<u>**立派な**</u>成果を<u>**過小評価する**</u> のは心苦しいのだが、私には、最も忌むべき発見のように思われる。
+■そんな<u>**立派な**</u>成果を<u>**悪く言う**</u> のは心苦しいのだが、私には、最も忌むべき発見のように思われる。
 I hate to <u>**disparage**</u> such a <u>**laudable**</u> achievement, but to me it seems like a most objectionable discovery.
 
 ■科学的な栄光というより、私は大いなるへま、科学的大惨事、研究室的<u>**大失敗**</u>と呼びたい。
