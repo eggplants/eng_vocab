@@ -129,7 +129,7 @@ No longer was it a simple case of disciplining two wayward lads.
 ■突然、それは校長が悪の<u>**権化**</u>または無害な剛力の若者をいじめる漫画の悪役のように描かれるという悪夢の様相を呈してきた。
 Suddenly it had taken on the appearance of a nightmare in which the principal was either hanged in <u>**effigy**</u> or pictured in cartoons making a villainous swipe at the two innocent Samsons.
 
-■だが、当局はロンとレンに権威を<u>**軽視しておとがめなしとさ**</u>せることはできなかった。
+■だが、当局はロンとレンに権威を<u>**軽視して**</u>おとがめなしとさせることはできなかった。
 But the officials could not allow Ron and Len to <u>**flout**</u> their authority with impunity.
 
 ■学校の取締会の構成員は、校長の行為に賛意を示したが、彼らも少年達が多くの支援を得ていることは<u>**分か**</u>っていた。
