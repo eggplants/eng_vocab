@@ -107,7 +107,7 @@ The <u>**indigent**</u> client was surprised when she was accosted by her social
 
 ####|fray - 諍い, 論争 (a fight)
 
-■その<u>**いさかい**</u>の後に、確執のある家族達は、彼らの相違を一旦は取る繕うことに同意した。
+■その<u>**いさかい**</u>の後に、確執のある家族達は、彼らの相違を一旦は取り繕うことに同意した。
 After the <u>**fray**</u>, the feuding families agreed to patch up their differences.
 
 </details>
