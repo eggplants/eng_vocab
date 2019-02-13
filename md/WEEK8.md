@@ -154,7 +154,7 @@ Ben's reprehensible table manners led his fraternity brothers to seat him in a r
 
 ####|thwart - 妨害する,じゃまする (to hinder, defeat)
 
-■<u>**貪欲な**</u>蟻達の邪魔をする試みのうちで、彼は灯油の「堀」で家を囲みました。
+■貪欲な蟻達の<u>**邪魔をする**</u>試みのうちで、彼は灯油の「堀」で家を囲みました。
 In an attempt to <u>**thwart**</u> the voracious ants, he surrounded his house with a moat of burning oil.
 
 ####|harbinger - 先駆者,前ぶれ,前兆 (a forerunner, advance notice)
