@@ -142,7 +142,7 @@ Clearly a compromise was called for to resolve the <u>**turbulent**</u> situatio
 ----
 ####|stymie - 御しにくい, 興奮した (unruly, agitated)
 
-■【「がんの原因」は<u>**興奮した**</u>医者達を固執させる】
+■【<u>**興奮した**</u>医者たちは「ガンの原因」に取り憑かれている】
 "CAUSE OF CANCER CONTINUES TO <u>**STYMIE**</u> DOCTORS."
 
 ####|effigy - (呪う対象の)似姿 (a likeness ― usually of a hated person)
