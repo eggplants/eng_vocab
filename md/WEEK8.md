@@ -98,7 +98,7 @@ The emaciated prisoners were obviously suffering from advanced <u>**malnutrition
 ####|afflict - 苦しめる, 悩ます (to trouble greatly, to distress)
 
 ■ケンタッキー州にある幾ばくかの山岳地帯の、共同体における市民らは、国内最悪の貧困に<u>**苛まれている**</u>。
-Citizens of several Kentucky mountain communities are afflicted by the worst poverty in the nation.
+Citizens of several Kentucky mountain communities are <u>**afflicted**</u> by the worst poverty in the nation.
 
 ####|besiege - 包囲する, 襲う (to surround, hem in)
 
