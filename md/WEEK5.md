@@ -164,7 +164,7 @@ He told them that cheating was a <u>**pernicious**</u> disease that could not be
 ■彼はアート・クラウゼをこれほど厳しく律しなければならないことを嫌悪した。
 He loathed having to discipline Art Krause so severely,
 
-■しかし、厳しい方策がとられない限り、彼の存在が,今回の件をカンニングしても<u>**無罪**</u>となる明白な誘因として<u>**体現する**</u>ものとなろう。
+■しかし、厳しい方策がとられない限り、彼の存在が,今回の件をカンニングしても<u>**無罪**</u>となる明白な誘因として<u>**解釈されうる**</u>ものとなろう。
 but unless strict measures were taken, the student body would <u>**construe**</u> the incident as an open invitation to cheat with <u>**impunity**</u>.
 
 ■我々はフットボールの試合に敗れるかも知れない。」校長は言った。「だが、我々はこれで自尊心を取り戻せるのだよ。」
