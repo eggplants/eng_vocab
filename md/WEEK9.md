@@ -148,27 +148,27 @@ Debating with such warped minds is not feasible* and only tends to exacerbate* t
 ####|loath - 厭う, 気の進まない (unwilling, reluctant)
 
 ■恣意的な規定だなと感じてから我々は従うのを<u>**厭う**</u>ようになった。
-Since we felt that ruling was arbitrary, we were <u>**loathed**</u>to obey it.
+Since we felt that ruling was arbitrary, we were <u>**loathed**</u> to obey it.
 
 ####|solicit - 懇願する (to beg, seek earnestly)
 
 ■貧困家族たちへの投資を<u>**懇願する**</u>ため毎日ボランティア達が出かけた。
-Daily the volunteers went out to <u>**solicit**</u>funds for the indigent families.
+Daily the volunteers went out to <u>**solicit**</u> funds for the indigent families.
 
 ####|astute -　聡い (keen, shrewd)
 
 ■私の隣人は<u>**目聡すぎて**</u>抵当の不利なところを見ぬいてしまった。
-My neighbor was <u>**astute**</u>enough to discern the adverse features of the mortgage.
+My neighbor was <u>**astute**</u> enough to discern the adverse features of the mortgage.
 
 ####|advocate - 提唱する (to be in favor of, to support)
 
 ■「私達は敵に爆撃からの暇を与えません」と司令官は<u>**提唱する**</u>に違いなかったろう。
-The general was sure to <u>**advocate**</u>that we give the enemy no respite from the bombing.
+The general was sure to <u>**advocate**</u> that we give the enemy no respite from the bombing.
 
 ####|ineffectual - 失活する (not effective)
 
-■その演劇はとても図々しい態度のひどいものであり、親友は<u>**やる気のない**</u>監督を首にした。
-The play was so blatantly bad that the impresario fired its <u>**ineffectual**</u>director.
+■その監督はとても図々しい態度のひどいものであり、親友は<u>**やる気のない**</u>監督を首にした。
+The play was so blatantly bad that the impresario fired its <u>**ineffectual**</u> director.
 
 </details>
 <details><summary>【DAY 4 - MORE THAN SILENCE】</summary>
