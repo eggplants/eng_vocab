@@ -73,7 +73,7 @@
 | arbitrary     | 任意の, 恣意的な, 専横な     |based on whim, dictatorial|
 | indigent      | 貧乏な                       |poor, needy|
 | fray          | 諍い, 論争                   |a fight|
-| stymie        | 御しにくい, 興奮した         |unruly, agitated|
+| stymie        | 困った立場に追い込む, 挫く         |unruly, agitated|
 | effigy        | (呪う対象の)似姿             |a likeness ― usually of a hated person|
 | flout         | バカにする, 無視する         |show contempt, scoff|
 | cognizant     | (...ofを)認識する, 知る      |aware|
