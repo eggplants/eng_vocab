@@ -181,10 +181,10 @@ The play was so blatantly bad that the impresario fired its <u>**ineffectual**</
 The quarantine method for handling bigots implies more than giving them the silent treatment.
 
 ■ファインバーグ教授は、集落関係組織にヘイト屋の<u>**悪い**</u>行為を<u>**精査する**</u>こと
-Prof. Fineberg urges community-relations organizations to <u>**scrutinize**</u> the <u>**nefarious**</u> activities of hate-mongers
+Prof. Fineberg urges community-relations organizations to <u>**scrutinize**</u> the <u>**nefarious**</u>  activities of hate-mongers
 
 ■及び彼らについての情報を<u>**友好的な**</u>質問に見せかけて準備できているように強く勧める。
-and to be prepared to furnish information about them to <u>**amicable**</u> inquirers.
+and to be prepared to furnish information about them to <u>**amicable**</u>  inquirers.
 
 ■少数過激派が来たときには、これらの組織は密かに彼を意見鋳型士に晒すべきだ。
 When a rabble-rouser is coming, those organizations should privately expose him to opinion-molders.
@@ -203,27 +203,27 @@ the need to find out the cause for such bigotry and to counteract this sinister*
 ####|scrutinize - 精査する (examine closely)
 
 ■弁護士は脅迫状を<u>**精査する**</u>や否や、サツに電話した。
-No sooner did the lawyer <u>**scrutinizes**</u>the extortion note than she called the police.
+No sooner did the lawyer <u>**scrutinizes**</u> the extortion note than she called the police.
 
 ####|nefarious - 悪い (villainous, vicious)
 
 ■我々は<u>**悪い**</u>頑固者によって以前毒を吐かれたことを聞くにつけひどく混乱した。
-We were distraught upon hearing the venom spewed forth by the <u>**nofarious**</u>bigot.
+We were distraught upon hearing the venom spewed forth by the <u>**nofarious**</u> bigot.
 
 ####|amicable - 友好的な (friendly, peaceful)
 
 ■我々のラテンアメリカとの<u>**友好**</u>関係は半球貿易の一財産だ。
-Our <u>**amicable**</u>relations with Latin America are an asset to hemispheric trade.
+Our <u>**amicable**</u> relations with Latin America are an asset to hemispheric trade.
 
 ####|vexatious - 鬱陶しい (annoying)
 
 ■私たちの頭について急上昇したその<u>**鬱陶しい**</u>蚊の羽音がもう少しで我々を発狂させそうにした。
-The <u>**vexatious**</u>buzzing of the mosquitoes as they surged about our heads nearly drove us insane.
+The <u>**vexatious**</u> buzzing of the mosquitoes as they surged about our heads nearly drove us insane.
 
 ####|malady - 疾病 (disease)
 
 ■毒性のある<u>**疾病**</u>が一旦その軌線に乗ると私の体温は急降下した。
-Once the virulent <u>**malady**</u>had run its course, my temperature dropped.
+Once the virulent <u>**malady**</u> had run its course, my temperature dropped.
 
 </details>
 <details><summary>【WEEK 9 まとめ】</summary>
