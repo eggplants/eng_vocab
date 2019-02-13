@@ -187,7 +187,7 @@ Knowing that he did not have long to live, Dr. Dooley worked without <u>**respit
 the organization he had founded to bring medical aid and hope to the world’s sick and needy.
 
 ■<u>**不安な**</u>日々の中で、彼の頭の中ではロバ－・フロストによる一節が<u>**響き**</u>続けていた。
-The lines of Robert Frost kept reverberating in his mind during those <u>**fretful**</u> days:
+The lines of Robert Frost kept <u>**reverberating**</u> in his mind during those <u>**fretful**</u> days:
 
 ■「森は美しく、暗く、深い。だが私には守らねばならぬ約束がある。そして往くべき道がある、眠りに就く前に。」
 “The woods are lovely, dark and deep. But I have promises to keep/ And miles to go before I sleep.”
