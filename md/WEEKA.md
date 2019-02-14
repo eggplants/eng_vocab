@@ -100,7 +100,7 @@ The stockbroker was <u>**obsessed**</u> with the idea of becoming a painter.
 ####|wan - (病気・悩みで)青ざめた, 血の気のない (sickly pale)
 
 ■緊張状態の後、普段は血色の良い彼の顔は<u>**青ざめ**</u>、疲れ切っていた。
-After the tension, his normally ruddy face wan <u>**wan**</u> and tired.
+After the tension, his normally ruddy face was <u>**wan**</u> and tired.
 
 </details>
 <details><summary>【DAY 3 - A TIME FOR DECISION】</summary>
@@ -142,7 +142,7 @@ Saying that he would not tolerate her <u>**histrionics**</u>, the director fired
 
 ####|elusive - わかりにくい,記憶しにくい (hard to grasp)
 
-■彼の生涯で、幸福は**分かりにくい**ものだと感得したが、富は簡単に離れるものだ。
+■彼の生涯で、幸福は<u>**捕え難い**</u>ものだと感得したが、富は簡単に離れるものだ。
 All his life he found happiness <u>**elusive**</u>, but wealth easy to come by.
 
 ####|frustrate - 妨げる, 邪魔する (counteract, foil, thwart)

@@ -208,7 +208,7 @@ No sooner did the lawyer <u>**scrutinizes**</u> the extortion note than she call
 ####|nefarious - 悪い (villainous, vicious)
 
 ■我々は<u>**悪い**</u>頑固者によって以前毒を吐かれたことを聞くにつけひどく混乱した。
-We were distraught upon hearing the venom spewed forth by the <u>**nofarious**</u> bigot.
+We were distraught upon hearing the venom spewed forth by the <u>**nefarious**</u> bigot.
 
 ####|amicable - 友好的な (friendly, peaceful)
 
